@@ -1,4 +1,4 @@
-# Foundational Model of Anatomy (FMA) Example Queries
+### Foundational Model of Anatomy (FMA) Example Queries
 
 **Note: This is only a copy of the FMA downloaded from: purl.org/sig/ont/fma**
 
